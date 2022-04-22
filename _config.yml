@@ -1,0 +1,4 @@
+theme: jekyll-theme-slate
+title: Controlling speech synthesis with phonetic features
+description: This is a demo for "Prosody under control: A method for controlling prosodic characteristics in
+text-to-speech synthesis by adjustments in latent reference space"
